@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pandas-datareader==0.10.0
+matplotlib
+plotly
+setuptools
+yfinance
