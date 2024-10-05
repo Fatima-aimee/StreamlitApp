@@ -14,7 +14,7 @@ url_sp500 = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"  # USA
 url_cac40 = "https://en.wikipedia.org/wiki/CAC_40"  # Paris
 url_ftse100 = "https://en.wikipedia.org/wiki/FTSE_100_Index"  # Londres
 url_nikkei = "https://bullishbears.com/nikkei-225-stocks-list/"  # Tokyo
-url_dax = "https://en.wikipedia.org/wiki/DAX"  # Berlin
+url_dax = "https://en.wikipedia.org/wiki/DAX"  ## Berlin 
 
 # Fonction pour lire les tables en toute sécurité
 def read_table(url, index):
